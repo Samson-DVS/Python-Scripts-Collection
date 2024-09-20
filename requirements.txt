@@ -2,3 +2,6 @@ pandas
 openpyxl
 requests
 boto3
+Pillow
+mutagen
+PyPDF2
